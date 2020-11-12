@@ -7,25 +7,26 @@ Here you'll find my work experience and the projects I've worked on. Please go a
 
 ## Work Experience
 
- **1.May 2016 - Sept 2018 - Full Time**
+ **1.May 2016 - Sept 2018 - [Charter Communications](https://www.spectrum.com/)**
 
-  Worked as _Software Engineer - II_ for [Charter Communications](https://www.spectrum.com/) in Charlotte, NC.
+  Worked as _Software Engineer - II_ full time in Charlotte, NC.
 
- **2.Aug 2015 - Jan 2016 - Consulting**
+ **2.Aug 2015 - Jan 2016 - [Time Warner Cable](https://en.wikipedia.org/wiki/Time_Warner_Cable)**
 
-  Worked as _Web Developer_ for [Time Warner Cable](https://en.wikipedia.org/wiki/Time_Warner_Cable) in Herndon, VA.
+  Worked as _Web Developer Consultant_ in Herndon, VA.
 
- **3.Jan 2014 - June 2014 - Internship**
+ **3.Jan 2014 - June 2014 - [BlueTie Inc.](https://bluetie.com/)**
 
-  Worked as an _Software Engineering Intern_ for [BlueTie Inc.](https://bluetie.com/) in Rochester, NY.
+  Worked as an _Software Engineering Intern_ in Rochester, NY.
 
-  **Jan 2019 - Nov 2020** `I moved back to India from USA due to Health issues. So, I ` **DIDNOT** `work.`
+ **Jan 2019 - Nov 2020** 
+  I moved back to India from Usa due to health issues. So, I **DID NOT** work.
 
 
 ## Projects 
 
 - **Name:** [Words-have-power](https://words-have-magic.web.app/quotes)
-- **Description:** I made this website for myself using Angular(9) and Firebase.
+  **Description:** I made this website for myself using Angular(9) and Firebase.
   
 ## Education
 
