@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Summary
 
-You can use the [editor on GitHub](https://github.com/ashwini8217/aguli/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am **Ashwini - a JavaScript developer**.
+I've worked both as a on Front-end developer using AngularJS(1.4x)and on the Back end using Node.js, specifically Hapijs framework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you'll find my work experience and the projects I've worked on. Please go ahead and take a look. Thank you :)
 
-### Markdown
+## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ **1.May 2016 - Sept 2018 - Full Time**
 
-```markdown
-Syntax highlighted code block
+  Worked as _Software Engineer - II_ for [Charter Communications](https://www.spectrum.com/) in Charlotte, NC.
 
-# Header 1
-## Header 2
-### Header 3
+ **2.Aug 2015 - Jan 2016 - Consulting**
 
-- Bulleted
-- List
+  Worked as _Web Developer_ for [Time Warner Cable](https://en.wikipedia.org/wiki/Time_Warner_Cable) in Herndon, VA.
 
-1. Numbered
-2. List
+ **3.Jan 2014 - June 2014 - Internship**
 
-**Bold** and _Italic_ and `Code` text
+  Worked as an _Software Engineering Intern_ for [BlueTie Inc.](https://bluetie.com/) in Rochester, NY.
 
-[Link](url) and ![Image](src)
-```
+  **Jan 2019 - Nov 2020** `I moved back to India from USA due to Health issues. So, I ` **DIDNOT** `work.`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Projects 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashwini8217/aguli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Name:** [Words-have-power](https://words-have-magic.web.app/quotes)
+- **Description:** I made this website for myself using Angular(9) and Firebase.
+  
+## Education
 
-### Support or Contact
+- **Aug 2012 - Dec 2014**
+**MS in Information Technology** at Rochester Institute of Technology, Rochester, NY.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **2008 - 2012**
+**BE in Computer Science and Engineer** at MVSR Engineering College, Hyderabad, India.
