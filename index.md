@@ -10,7 +10,7 @@ Here you'll find my work experience and the projects I've worked on. Please go a
 - **Name:** [Task Manager](https://task-manager-373d5.web.app/)
 - **Description:** An app to create, edit, update or delete (CRUD) tasks. Built it using Angular & hosted on Firebase.
 
-- **Name:** [Tic Tac Toe](https://aguli-me.github.io/tictactoe/)
+- **Name:** [Tic Tac Toe](https://aguli-me.github.io/TicTacToe/)
 - **Description:** A 2 player game to play Tic Tac Toe. Built using d3.js and hosted on github.
 
 - **Name:** [Words-have-power](https://words-have-magic.web.app/quotes)
