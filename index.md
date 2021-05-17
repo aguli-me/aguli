@@ -29,9 +29,6 @@ Here you'll find my work experience and the projects I've worked on. Please go a
  **Jan 2014 - June 2014 - [BlueTie Inc.](https://bluetie.com/)**
 
   Worked as an _Software Engineering Intern_ in Rochester, NY.
-
- **Jan 2019 - Nov 2020** 
-  I moved back to India from Usa due to health issues. So, I **DID NOT** work.
   
 ### Education
 
