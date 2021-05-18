@@ -23,7 +23,7 @@ Total experience in
 
 ### Work Experience
 
- **May 2017 - Sept 2018 - [Charter Communications](https://www.spectrum.com/)**
+ **Apr 2017 - Sept 2018 - [Charter Communications](https://www.spectrum.com/)**
 
   Worked as _Software Engineer - II_ full time in Charlotte, NC.
 
