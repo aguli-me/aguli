@@ -11,6 +11,8 @@ Total experience in
 + **Node JS**    - 1 year 6 months
 
 ### Projects 
+- **Name:** [Amazon](https://clone-aec28.web.app/)
+- **Description:** An e-commerce website that uses google account for authentication. Under development. Built using React JS & Firebase.
 
 - **Name:** [Task Manager](https://task-manager-373d5.web.app/)
 - **Description:** An app to create, edit, update or delete (CRUD) tasks. Built it using Angular & hosted on Firebase.
@@ -18,8 +20,6 @@ Total experience in
 - **Name:** [Tic Tac Toe](https://aguli-me.github.io/TicTacToe/)
 - **Description:** A 2 player game to play Tic Tac Toe. Built using d3.js and hosted on github.
 
-- **Name:** [Words-have-power](https://words-have-magic.web.app/quotes)
-- **Description:** I made this website for myself using Angular and Firebase.
 
 ### Work Experience
 
