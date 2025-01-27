@@ -1,14 +1,14 @@
 ### Summary
 
-Hi! I am **Ashwini - a JavaScript developer**.
-I've worked both as a on Front-end developer using **Javascript, AngularJS(1.4x)** and on the Back end using **php, Node.js**, specifically Hapijs framework.
+Hi! I am **Ashwini - a Front End developer**.
+I've worked as a Front-end developer using **Javascript, React JS** for the past 3 years. Total work experience is 5 years.
 
 Here you'll find my work experience and the projects I've worked on. Please go ahead and take a look. Thank you :)
 
 Total experience in
-+ **Javascript** - 3 years 6 months
-+ **Angular JS** - 1 year 6 months
-+ **Node JS**    - 1 year 6 months
++ **Javascript** - 5 years
++ **React JS** - 3 years
+
 
 ### Projects 
 - **Name:** [Amazon](https://clone-aec28.web.app/)
@@ -19,21 +19,6 @@ Total experience in
 
 - **Name:** [Tic Tac Toe](https://aguli-me.github.io/TicTacToe/)
 - **Description:** A 2 player game to play Tic Tac Toe. Built using d3.js and hosted on github.
-
-
-### Work Experience
-
- **Apr 2017 - Sept 2018 - [Charter Communications](https://www.spectrum.com/)**
-
-  Worked as _Software Engineer - II_ full time in Charlotte, NC.
-
- **Aug 2015 - Jan 2017 - [Time Warner Cable](https://en.wikipedia.org/wiki/Time_Warner_Cable)**
-
-  Worked as _Web Developer Consultant_ in Herndon, VA.
-
- **Jan 2014 - June 2014 - [BlueTie Inc.](https://bluetie.com/)**
-
-  Worked as an _Software Engineering Intern_ in Rochester, NY.
   
 ### Education
 
